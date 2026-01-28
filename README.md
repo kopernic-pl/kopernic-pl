@@ -7,5 +7,5 @@ kopernic-pl/kopernic-pl is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ## Trophy wall 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kopernic-pl)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://trophy.ryglcloud.net/?username=kopernic-pl)](https://github.com/ryo-ma/github-profile-trophy)
+ 
